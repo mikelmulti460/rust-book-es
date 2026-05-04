@@ -703,7 +703,7 @@ anterior de `guess` con uno nuevo. Este concepto en Rust se le conoce como
 _Shadowing_, nos permite volver a usar el nombre de la variable `guess`
 en lugar de obligarnos a crear dos variables únicas, como `guess_str`
 y `guess`, por ejemplo. Lo cubriremos con más detalle en el
-[Capítulo 3][shadowing]<!-- ignore -->, pero por ahora, sé que esta
+[Capítulo 3][shadowing]<!-- ignore -->, pero por ahora, debe saber que esta
 característica se usa a menudo cuando desea convertir un valor de un tipo a
 otro tipo.
 
